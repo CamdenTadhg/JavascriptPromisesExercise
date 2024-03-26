@@ -1,0 +1,10 @@
+.display-div {
+    margin: 5px;
+    max-width: 30vw;
+    display: inline;
+}
+
+.pokemon-div {
+    display: flex;
+    flex-direction: row;
+}
